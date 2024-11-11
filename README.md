@@ -9,6 +9,9 @@ git config --global user.name 'nombre'
 git config --global user.email correo
 git config --list
 
+git commit -m "tipo(feat "nueva entrada")(archivo entre parentesis): explicar cambio en infinitivo"
+*(tipos -> fix, feat, refactor, etc)
+
 Prueba
 ======
 
